@@ -4,7 +4,11 @@ switch(nacionalidade){
     case "brasileira":
         console.log("a pessoa é do Brasil!");
         break;
+    case "brasileiro":
+         console.log("a pessoa é do Brasil!");
+        break;
     case "argentina":
+    case "argentino":
         console.log("a pessoa é da Argentina!");
         break;   
     case "uruguaia":
