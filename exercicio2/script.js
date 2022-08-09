@@ -18,4 +18,5 @@ switch(nacionalidade){
         break;
     default:
         console.log("nacionalidade não encontrada")
+        break;
 }
